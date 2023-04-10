@@ -1,0 +1,15 @@
+body {
+  overflow-x: hidden;
+  margin: 0px;
+}
+
+input {
+  background: #f4f4f3;
+  border: none;
+  padding: 5px;
+  /* outline: 1px solid; */
+}
+
+button {
+  cursor: pointer;
+}
