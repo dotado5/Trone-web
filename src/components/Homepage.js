@@ -133,7 +133,7 @@ function Homepage() {
           }}
           className="right-first"
         >
-          <img src="/images/investing-amico.svg" alt="" />
+          <img src="/images/Investing-amico.svg" alt="" />
         </motion.div>
       </FirstSection>
       <SecondSection>
